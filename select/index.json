@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "MOBILE SUIT",
+  "base_artist": "澤野弘之",
+  "createdAt": "2026-03-28T11:44:21.962738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mobile Suit Woe",
+      "artist": "Xavier Wulf",
+      "has_synced": true,
+      "path": "select/01_Mobile_Suit_Woe_Xavier_Wulf.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "\"MOBILE SUIT GUNDAM UNICORN\" suite",
+      "artist": "澤野弘之、mizuki、Tielle",
+      "has_synced": false,
+      "path": "select/pl_01_MOBILE_SUIT_GUNDAM_UNICORN__suite_澤野弘之、mizuki、Tielle.txt"
+    }
+  ]
+}
